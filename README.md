@@ -18,5 +18,8 @@ def my_great_method
  ```
  
  ```javascript
-alert('Hi there');
+alert('Hi there'); 
  ```
+ 
+ 
+ $ rails s -b $IP -p $PORT
