@@ -22,4 +22,6 @@ alert('Hi there');
  ```
  
  
- $ rails s -b $IP -p $PORT
+rails s -b $IP -p $PORT
+ 
+ 11:14 left
