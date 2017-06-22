@@ -24,4 +24,4 @@ alert('Hi there');
  
 rails s -b $IP -p $PORT
  
- 11:14 left
+ 14:04
