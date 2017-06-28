@@ -25,3 +25,5 @@ alert('Hi there');
 rails s -b $IP -p $PORT
  
  14:04
+ 
+ sudo service postgresql start
