@@ -28,3 +28,4 @@ rails s -b $IP -p $PORT
  
  sudo service postgresql start
  rails db:seed
+ 
