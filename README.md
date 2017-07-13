@@ -29,4 +29,3 @@ rails s -b $IP -p $PORT
  sudo service postgresql start
  rails db:seed
  
- Portfolio.create!(title: "Web app", subtitle: "aaaa", body: "bbbbbb", technologies_attributes: [{name: "ruby"}, {name: "rails"}, {name: "angular"}, {name:"ionic"}])
