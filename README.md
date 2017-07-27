@@ -24,7 +24,7 @@ alert('Hi there');
  
 rails s -b $IP -p $PORT
  
-6:45 left
+16:47 left
  
  sudo service postgresql start
  rails db:seed
